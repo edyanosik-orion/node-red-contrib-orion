@@ -10,7 +10,7 @@ This flow requires an IBM Watson Speech-To-Text service account and IBM Watson T
 
 ## Orion Flow
 
-Coming Soon
+![Read-Your-Tone](https://github.com/orion-labs/node-red-contrib-orion/raw/master/docs/example-ReadYourTone.png)
 
 ## Code for Importing into Node-RED or Orion Aster
 
